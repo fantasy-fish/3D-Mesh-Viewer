@@ -1,0 +1,16 @@
+11 connect joists
+12 move butterfly joists
+131 align joists
+132 align joists fixed
+14 align pillars
+15 align beams
+151 align beams aggressively
+111 connect joists-pillars
+16 align joists-pillars
+34 delete short edges
+33 delete snap nodes
+35 delete panjoist nodes
+41 batch D1
+42 batch D2
+43 batch D3
+44 batch D4
